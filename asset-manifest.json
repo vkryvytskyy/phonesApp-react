@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phonesApp-react/static/css/main.bfd8e9de.chunk.css",
+    "main.js": "/phonesApp-react/static/js/main.e168ebaf.chunk.js",
+    "main.js.map": "/phonesApp-react/static/js/main.e168ebaf.chunk.js.map",
+    "runtime~main.js": "/phonesApp-react/static/js/runtime~main.0c6c941e.js",
+    "runtime~main.js.map": "/phonesApp-react/static/js/runtime~main.0c6c941e.js.map",
+    "static/js/2.31625c1d.chunk.js": "/phonesApp-react/static/js/2.31625c1d.chunk.js",
+    "static/js/2.31625c1d.chunk.js.map": "/phonesApp-react/static/js/2.31625c1d.chunk.js.map",
+    "index.html": "/phonesApp-react/index.html",
+    "precache-manifest.0c9a28ecc61067f917d0582d13cc11cd.js": "/phonesApp-react/precache-manifest.0c9a28ecc61067f917d0582d13cc11cd.js",
+    "service-worker.js": "/phonesApp-react/service-worker.js",
+    "static/css/main.bfd8e9de.chunk.css.map": "/phonesApp-react/static/css/main.bfd8e9de.chunk.css.map"
+  }
+}
